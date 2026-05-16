@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shanto-neel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shanto Neel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shanto-neel/) |
+| **Get License** | [Commercial Licensing for Shanto Neel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shanto-neel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cdfc749130876a6c8d51bc168b6eee2e052d2aa7b43d62a7a5cdc824c3b6f4f2` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
