@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shanto-neel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shanto Neel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shanto-neel/) |
+| **Get License** | [License this song: Shanto Neel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shanto-neel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শান্ত নীল এই রাতের বুকে জাগলো কেন তীব্র তৃষা
+> মাতাল হাওয়া ডাকছে কাছে হারিয়ে আজ সকল দিশা
+> আঁধার চিরে আসো তুমি জ্বেলে প্রেমের উষ্ণ শিখা
+> অচিন দেশে উড়বো দুজন যেখানে সব কাব্য লিখা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
